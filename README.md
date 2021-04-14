@@ -8,7 +8,7 @@ E para celebrar esse momento e colocar o meu aprendizado em bootstrap em prátic
  
 ## Mobile
 
-![](https://github.com/EliveltonSouzaDev/CanadianTrip/blob/main/img/cadanidan%20trip.png)
+![](https://github.com/EliveltonSouzaDev/CanadianTrip/blob/main/img/cadanidan%20trip.jpg)
 
 ### 🛠️ Tecnologias
 

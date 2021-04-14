@@ -21,7 +21,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### 🌐Link do Projeto.
 
 
-- [CanadianTrip](https://eliveltonsouzadev.github.io/ToDoList/)       
+- [CanadianTrip](https://eliveltonsouzadev.github.io/CanadianTrip/)       
 
 
 ### Autor:
